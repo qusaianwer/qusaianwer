@@ -1,5 +1,5 @@
 <!-- HEADER IMAGE -->
-<img src="C:\Users\Qusai Anwar\OneDrive\Pictures\Saved Pictures" alt="Qusai Anwer GitHub Header" width="100%">
+<img src="C:\Users\Qusai Anwar\OneDrive\Pictures\Saved Pictures">
 
 <p align="center">
   <a href="mailto:qusaianwer06@gmail.com">
